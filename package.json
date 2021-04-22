@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smply-gd/estate-library.git"
+    "url": "git+https://github.com/smply-gd/autocomplete.git"
   },
   "keywords": [
-    "estate",
+    "autocomplete",
     "library"
   ],
   "author": {
@@ -21,28 +21,15 @@
   },
   "contributors": [
     {
-      "name": "Marc Saleiko",
-      "email": "saleiko@smply.gd",
-      "url": "https://github.com/marcsaleiko"
-    },
-    {
-      "name": "Daniel Hoffmann",
-      "email": "hoffmann@smply.gd",
-      "url": "https://github.com/dhoffmann1979"
+      "name": "Alexander Bogatyrev",
+      "email": "bogatyrev@smply.gd",
+      "url": "https://github.com/bogatyrev74"
     }
   ],
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/smply-gd/estate-library/issues"
+    "url": "https://github.com/bogatyrev74/autocomplete/issues"
   },
-  "homepage": "https://github.com/smply-gd/estate-library#readme",
-  "dependencies": {
-    "@smply-gd/autocomplete": "0.0.3",
-    "bootstrap-multiselect": "^0.9.15",
-    "jquery": "^2.2.4",
-    "slick-carousel": "^1.8.1"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
+  "homepage": "https://github.com/bogatyrev74/autocomplete#readme",
+  "dependencies": false
 }
